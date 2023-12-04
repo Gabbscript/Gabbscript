@@ -1,6 +1,6 @@
 # :man_technologist: Gabriel Marques
 
-Meu nome é Gabriel Marques, estou cursando Engenharia de Software na CEULP/Ulbra Palmas - TO 
+Meu nome é Gabriel Marques, estou cursando Engenharia de Software na Ulbra Palmas - TO 
 
 ---
 
